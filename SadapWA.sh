@@ -1,6 +1,6 @@
 #SadapWA
-#Coded by. MiSetya
-#Jangan recode ngentod!!
+#Coded by. Azbler
+#Jangan recode Anjenk:'!!
 #mau recode izin 0823-8623-4828
 
 clear
@@ -14,8 +14,8 @@ ku='\033[33;1m' #kuning
 
 echo $cy"<|=======================================|>"
 echo $cy "||     $i Sadap WhatsApp Version 2.0     $cy||"
-echo $cy "||     $i Author: MiSetya                $cy||"
-echo $cy "||     $i Team  : Light Cyber Indonesia  $cy||"
+echo $cy "||     $i Author: Azbler                 $cy||"
+echo $cy "||     $i Team  : BlerSquad              $cy||"
 echo $cy"<|=======================================|>"
 echo
 sleep 4
@@ -25,18 +25,18 @@ echo $i"<[  $pu 1.Sadap Nomor Telkomsel $i    ]>"
 echo $i"<[  $me 2.Sadap Nomor XL   $i         ]>"
 echo $i"<[  $pu 3.Sadap Nomor Three   $i      ]>"
 echo $i"<[  $me 4.Sadap Nomor Axis    $i      ]>"
-echo $i"<[  $pu 5.Sadap Nomor Smartfren  $i   ]>"
+echo $i"<[  $pu 5.Sadap Nomor Simpati  $i     ]>"
 echo $i"<[===============================]>"
 echo
 echo $bi "╭─"$i"Pilih Salah Satu"
-read -p " ╰─────────$MiSetya>>"  pil
+read -p " ╰─────────$Azbler>>"  pil
 
 if [ $pil = '1' ]
 then
 echo
 echo
 echo $bi "╭─"$i"Masukan Nomor Target"
-read -p " ╰─────────$MiSetya>>"  pil
+read -p " ╰─────────$Azbler>>"  pil
 echo
 echo
 echo $i"[•] Mengecek Nomor"
@@ -76,7 +76,7 @@ then
 echo
 echo
 echo $bi "╭─"$i"Masukan Nomor Target"
-read -p " ╰─────────$MiSetya>>"  pil
+read -p " ╰─────────$Azbler>>"  pil
 echo
 echo
 echo $i"[•] Mengecek Nomor"
@@ -116,7 +116,7 @@ then
 echo
 echo
 echo $bi "╭─"$i"Masukan Nomor Target"
-read -p " ╰─────────$MiSetya>>"  pil
+read -p " ╰─────────$Azbler>>"  pil
 echo
 echo
 echo $i"[•] Mengecek Nomor"
@@ -156,7 +156,7 @@ then
 echo
 echo
 echo $bi "╭─"$i"Masukan Nomor Target"
-read -p " ╰─────────$MiSetya>>"  pil
+read -p " ╰─────────$Azbler>>"  pil
 echo
 echo
 echo $i"[•] Mengecek Nomor"
@@ -196,7 +196,7 @@ then
 echo
 echo
 echo $bi "╭─"$i"Masukan Nomor Target"
-read -p " ╰─────────$MiSetya>>"  pil
+read -p " ╰─────────$Azbler>>"  pil
 echo
 echo
 echo $i"[•] Mengecek Nomor"
@@ -241,6 +241,6 @@ sleep 1
 echo
 toilet -f future HAHAHAHAH | lolcat
 echo
-echo $me"Contact me kalo mau complain : $i 0823-8623-4828"
+echo $me"Contact me kalo mau complain : $i 0896-6439-7979"
 exit
 fi
