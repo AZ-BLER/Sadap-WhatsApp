@@ -15,7 +15,7 @@ C='\x1b[1;36m'
 D='\x1b[0m'
 
 echo
-echo $i"Lu beneran mau nyadap WA nya??"
+echo $i" beneran mau nyadap WA nya??"
 read -p " [y/n] "  pil
 
 if [ $pil = 'y' ]
@@ -42,7 +42,7 @@ sleep 30
 echo $i"SADAP WA LEWAT TERMUX!? MOONTON BERCANDA!?"
 echo
 sleep 1
-echo $i"MANA BISA AJG!"
+echo $i"MANA LAH BISA AWOKWKW!"
 sleep 2
 fi
 
